@@ -84,7 +84,7 @@ Gets the downloads per day for a given period, for all packages or a specific pa
 	<dt>Downloads per day, last 30 days</dt>
 	<dd><a href="https://api.npmjs.org/downloads/range/last-month/jquery">/downloads/range/last-month/jquery</a></dd>
 	<dt>Downloads per day, specific 30 day period</dt>
-	<dd><a href="https://api.npmjs.org/downloads/range/2014-01-03:2014-02-03/jquery">/downloads/range/2014-01-03:2014-02-03/jquery</a></dd>
+	<dd><a href="https://2161928739npmjs.org/downloads/range/2014-01-03:2014-02-03/jquery">/downloads/range/2014-01-03:2014-02-03/jquery</a></dd>
 </dl>
 
 ### Parameters
